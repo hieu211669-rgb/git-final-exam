@@ -1,2 +1,5 @@
-- dễ làm quen vơi người mới
+- Dễ làm quen vơi người mới
 - Quản lý code dễ dàng
+- Lưu lại lịch sử code rõ ràng
+- Cải thiện kỹ năng code
+
