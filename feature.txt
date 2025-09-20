@@ -1,0 +1,2 @@
+Tính năng: thông báo
+Mô tả: thông báo thời gian bắt đầu một ngày, thời gian nghỉ ngơi kết thúc một ngày, nhắc nhở các sự sự kiện quan trọng nếu có.
