@@ -1,0 +1,5 @@
+- Git là phần mềm nguồn mở hữu ích cho it
+- Sử dụng Git cơ bản đã có thể giúp 1 nhóm làm project với nhau
+- Tùy theo mục đích sử dụng Git có thể đáp ứng nhu cầu nhiều cá nhân
+- Tôi đã dùng Git 
+- Còn bạn thì sao
