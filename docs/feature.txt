@@ -1,0 +1,1 @@
+- đây là branch feature được tạo từ branch feature nên nó có thể truy cập các phần của branch develop.
